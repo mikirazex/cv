@@ -1,3 +1,4 @@
-hr .dots{
+hr.dots{
 	border-top:1px dotted red;
+	width:20px
 }
